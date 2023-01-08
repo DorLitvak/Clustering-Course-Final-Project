@@ -1,2 +1,2 @@
-# Final Project - Clustering and Unsupervised Learning Course 
-# Ben Gurion Univeristy, EE department 
+# Final Project - Clustering and Unsupervised Learning 
+Prof. Amir Geva Course, Ben Gurion Univeristy, EE department 
